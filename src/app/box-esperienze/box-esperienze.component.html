@@ -1,0 +1,22 @@
+<div class="container mt-4 box">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1>ESPERIENZA PROFESSIONALE</h1>
+        </div>
+    </div>
+    <div class="row mt-4" *ngFor="let esperienza of esperienze">
+        <div class="col-lg-3">
+            <h3>{{esperienza.dataDa}} - {{esperienza.dataA}}</h3>
+        </div>
+        <div class="col-lg-9">
+            <div class="ruolo" (click)="showEsperienze()">{{esperienza.ruolo}}</div>
+            <div class="societa">{{esperienza.societa}}</div>
+            <div class="nomeProgetto">{{esperienza.nomeProgetto}}</div>
+            <div class="descrizione">{{esperienza.descrizione}}</div>
+            <div class="descrizione"><b>Application Server:</b> {{esperienza.applicationServer}}</div>
+            <div class="descrizione"><b>DBMS:</b> {{esperienza.dbms}}</div>
+            <div class="descrizione"><b>Persistent layer:</b> {{esperienza.persistenceLayer}}</div>
+            <div class="descrizione"><b>Linguaggi e strumenti:</b> {{esperienza.linguaggiStrumenti}}</div>
+        </div>
+    </div>
+</div>

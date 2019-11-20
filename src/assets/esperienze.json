@@ -1,0 +1,50 @@
+[
+    {
+        "dataDa": "02/2019",
+        "dataA": "oggi",
+        "ruolo":  "Senior software developer - Team leader",
+        "societa": "UNISYS ITALIA SRL, Roma",
+        "nomeProgetto": "SIGA - Sistema Informativo Giustizia Amministrativa",
+        "descrizione": "Progettazione, analisi e sviluppo del nuovo sistema informativo della giustizia amministrativa per la gestione dei ricorsi contro le pubbliche amministrazioni sia di primo (TT.AA.RR.) che di secondo grado (Consiglio di Stato). Su questo progetto coordina le attività di sviluppo di un gruppo di lavoro di 5 persone. Realizzazione di documenti tecnici e di progettazione.",
+        "applicationServer": "Oracle Weblogic server 12c",
+        "dbms": "Oracle 12c",
+        "persistenceLayer": "JPA - Eclipselink - Hibernate",
+        "linguaggiStrumenti": "Jdeveloper 12c, Spring MVC, Java, JAX-RS, EJB 3, JSON, CDI, XML, Javascript, HTML 5, CSS3, Bootstrap, JQuery, SQL, Pl/Sql, Oracle WebCenter Content 12c, Maven"
+    },
+    {
+        "dataDa": "10/2017",
+        "dataA": "02/2019",
+        "ruolo":  "Senior software developer - Team leader",
+        "societa": "UNISYS ITALIA SRL, Roma",
+        "nomeProgetto": "Sitoweb ga - www.giustizia-amministrativa.it",
+        "descrizione": "Progettazione, analisi e sviluppo della parte dei portali e aree riservate del nuovo sito web della giustizia amministrativa. Su questo progetto coordina le attività di sviluppo di un gruppo di lavoro di 3 persone. Realizzazione di documenti tecnici e di progettazione.",
+        "applicationServer": "JBoss EAP 7.1",
+        "dbms": "Postgresql 9",
+        "persistenceLayer": "JPA - Hibernate",
+        "linguaggiStrumenti": "Jboss developer studio, Spring MVC, Java, JAX-RS, EJB 3, CDI, JSON, XML, Javascript, HTML 5, CSS3, Bootstrap, JQuery, SQL, JPQL, Alfresco, Solr, Redhat Single sign on, Keycloak, Maven"
+    },
+    {
+        "dataDa": "01/2016",
+        "dataA": "09/2017",
+        "ruolo":  "Senior software developer - Team leader",
+        "societa": "UNISYS ITALIA SRL, Roma",
+        "nomeProgetto": "PAT - Processo amministrativo telematico (Progetto vincitore del premio Agenda digitale 2017)",
+        "descrizione": "Analisi tecnica, definizione dell’architettura software e dell’implementazione dell’applicazione di un canale telematico-digitale per il deposito di fascicoli nel processo amministrativo, soluzione basata su tecnologia Java. Gestione dei moduli di deposito PDF e firma digitale con  Adobe AEM. Integrazione di sistemi e comunicazione attraverso web-services sia SOAP e RESTFUL.\nRealizzazione di documenti di analisi e conteggio Function Point (IFPUG).\nSu questo progetto è team leader di un gruppo di lavoro di 2 persone.",
+        "applicationServer": "Oracle Weblogic server 11g",
+        "dbms": "Oracle 11g",
+        "persistenceLayer": "JPA",
+        "linguaggiStrumenti": "Jdeveloper 11g, Java, JAX-WS, JAX-RS, EJB, JSON, XML, Javascript, HTML, WSDL, SQL, Pl/Sql, Adobe AEM."
+    },
+    {
+        "dataDa": "2002",
+        "dataA": "2015",
+        "ruolo":  "Analista e sviluppatore di sistemi informatici",
+        "societa": "UNISYS ITALIA SRL, AXA Sistemi SRL",
+        "nomeProgetto": "",
+        "descrizione": "Lavora su diversi progetti, ambienti e piattaforme presso i seguenti clienti: Carrefour,  Ministero dell’interno,  Avvocatura dello Stato, Comune di Roma.\nRealizza per scopi privati e di studio applicazioni mobile sia in ambiente Android che ios.",
+        "applicationServer": "Oracle Weblogic server 11g,  OC4J,  IBM WebSphere\nFramework: JSF, Oracle ADF, UIX, Struts, Tomcat",
+        "dbms": "Oracle 11g,  Oracle 10g, Oracle 9i, Oracle 8i, MySql, DB2",
+        "persistenceLayer": "Oracle Business Components, BC4J,  Apache Torque",
+        "linguaggiStrumenti": "JEE, Java, JSP, JAAS, Javascript, HTML, SQL, Pl/Sql, EJB, XML, XSD, XSL, VBA, Visual Basic,  WSDL, Android, Swift.\nStrumenti: Jdeveloper 11g,  Jdeveloper 10g, Eclipse,  Web Sphere, Toad,  Developer Forms 2000, Sql Plus." 
+    }
+]
