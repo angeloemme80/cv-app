@@ -3,6 +3,10 @@ h1 {
     font-family: 'SansationBold';
     font-size: 28px;
     background-color: #1976d2;
+    border-radius: 4px;
+}
+p {
+    margin-left: 1em;
 }
 
 h3 {
