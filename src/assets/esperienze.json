@@ -2,6 +2,18 @@
     {
         "dataDa": "02/2019",
         "dataA": "oggi",
+        "ruolo":  "Java architect - Senior software engineer",
+        "societa": "IBM Italia spa, Roma",
+        "nomeProgetto": "SIGA - Sistema Informativo Giustizia Amministrativa",
+        "descrizione": "Mi occupo dell'evoluzione del sistema informativo della giustizia amministrativa e della manutenzione di tutte le varie tipologie di applicazioni presenti nel sistema: Web application, microservizi, job, script, distribuite sia in cloud che on premises e su diverse tecnologie: Weblogic, Jboss, Openshift ecc. Progettazione dell'architettura applicativa ed implementazione di web application e/o microservizi. Redazione di documentazione tecnica e di stima in Function Point. Punto di riferimento e leader di un team di 6 persone.",
+        "applicationServer": "Oracle Weblogic server 12c",
+        "dbms": "Oracle 19c",
+        "persistenceLayer": "JPA - Eclipselink - Hibernate",
+        "linguaggiStrumenti": "Eclipse, STS, Jdeveloper 12c, Microservizi, Microprofile, Spring MVC, Java, JAX-RS, EJB 3, JSON, CDI, XML, Javascript, HTML 5, CSS3, Bootstrap, JQuery, SQL, Pl/Sql, Oracle WebCenter Content 12c, Maven"
+    },
+    {
+        "dataDa": "02/2019",
+        "dataA": "09/2019",
         "ruolo":  "Senior software developer - Team leader",
         "societa": "UNISYS ITALIA SRL, Roma",
         "nomeProgetto": "SIGA - Sistema Informativo Giustizia Amministrativa",
